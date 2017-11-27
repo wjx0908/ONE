@@ -10,7 +10,7 @@
 git clone "项目地址"
 
 # enter project directory
-cd project directory
+cd project https://github.com/wjx0908/ONE.git
 
 # install dependencies
 npm install
