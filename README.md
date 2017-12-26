@@ -7,17 +7,18 @@
 
 ``` bash
 # clone it from github
-git clone "项目地址"
+git clone https://github.com/wjx0908/ONE.git
 
 # enter project directory
-cd project https://github.com/wjx0908/ONE.git
+cd ONE 
 
 # install dependencies
 npm install
+如果网慢可以使用cnpm
 
 # serve with hot reload at localhost:8085
 npm run dev
-
+然后在浏览器输入localhost:8085,记住在手机调试模式下使用
 
 ```
 
