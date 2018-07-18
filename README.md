@@ -14,7 +14,7 @@ cd ONE 
 
 # install dependencies
 npm install
-如果网慢可以使用cnpm，网上都有很多教程
+如果网慢可以使用cnpm，网上都有很多教程 链接:<a href="http://npm.taobao.org/">http://npm.taobao.org/</a>
 
 # serve with hot reload at localhost:8085
 npm run dev
