@@ -1,6 +1,6 @@
 import server from "../../model/model.js"
 import * as types from "../mutation-type.js"
-
+//这里是原始数据
 const state = {
     idlist : [], //前十天的id
     article : [],//首页文章列表
@@ -9,7 +9,7 @@ const state = {
     poster : {},//当天的海报
     subhead : "",//副标题
 }
-
+//这里可以过滤数据
 const getters = {
     idlist : state => state.idlist,
     article : state => state.article,
